@@ -15,5 +15,23 @@
   "devDependencies": {
     "eslint": "8.7.0",
     "eslint-config-next": "12.0.8"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aayushpatil77/kickstart.git"
+  },
+  "keywords": [
+    "kickstart",
+    "notetaking",
+    "classroom"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aayushpatil77/kickstart/issues"
+  },
+  "homepage": "https://github.com/Aayushpatil77/kickstart#readme"
 }
