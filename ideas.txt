@@ -1,0 +1,8 @@
+- Video Scheduling (maybe using zoom api)
+- Note Taking
+- Scheduling tests/MCQs
+- Calendar - Events and Test Dates
+- Students can form project groups
+- Course List catalog, Course Progress
+- Test Reports/Results
+- Generating Transcript from classroom recordings (helpful for taking notes)
